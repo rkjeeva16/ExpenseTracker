@@ -4,39 +4,24 @@ A simple and efficient Expense Tracking REST API built with Spring Boot, Spring 
 This project allows users to create categories, add expenses, fetch expense summaries, and track spending with clean API design, proper validations, and JPA auditing.
 
 🚀 Features
-
 Add custom Categories
-
 Add Expenses linked to categories
-
 Validate inputs using Jakarta Validation
-
 Get expense details by ID
-
 Fetch expenses by Category
-
 Monthly expense summary (Auto-calculation)
-
 Global exception handling
-
 Auto timestamps using JPA Auditing
-
 Uses DTOs and Mapper for clean architecture
 
 🛠 Tech Stack
 
 Java 17+
-
 Spring Boot 3.x
-
 Spring Web
-
 Spring Data JPA + Hibernate
-
 PostgreSQL
-
 Lombok
-
 Jakarta Validation
 
 📂 Project Structure
